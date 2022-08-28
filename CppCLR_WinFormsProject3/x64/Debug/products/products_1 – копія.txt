@@ -1,0 +1,7 @@
+ID	Name	Info
+p_43	boil	boil for water
+p_32	pen	pen for writing
+p_03	pencil	pencil for writing
+p_35	bag	bag for carrying
+p_89	purse	purse for money
+p_01	book	book for school

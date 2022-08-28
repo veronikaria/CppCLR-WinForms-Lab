@@ -1,0 +1,6 @@
+ID	Name	Info
+p_01	book	book for school
+p_02	pens	pen for writing
+p_03	pencil	pencil for writing
+p_04	phone	phone for calls
+p_05	bags	bag for carrying

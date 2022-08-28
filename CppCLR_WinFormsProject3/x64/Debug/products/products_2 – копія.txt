@@ -1,0 +1,6 @@
+Name	Price	Quantity
+Paper	1	234
+Frame	41	56
+Book	199	20
+Hat	111	10
+Soap	50	8

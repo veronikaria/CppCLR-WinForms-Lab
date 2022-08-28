@@ -1,0 +1,5 @@
+Paper	1	234	
+Frame	41	91	
+Book	200	188	
+Hat	210	10	
+Soap	45	2	

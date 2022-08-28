@@ -1,0 +1,4 @@
+C:\Users\Користувач\Documents\job\2022\05\16\CppCLR_WinFormsProjectLab1\CppCLR_WinFormsProjectLab1\x64\Debug\CppCLR_WinFormsProjectLab1.vcxproj.AssemblyReference.cache
+C:\Users\Користувач\Documents\job\2022\05\16\CppCLR_WinFormsProjectLab1\CppCLR_WinFormsProjectLab1\x64\Debug\CppCLR_WinFormsProjectLab1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Користувач\Documents\job\2022\05\16\CppCLR_WinFormsProjectLab1\CppCLR_WinFormsProjectLab1\x64\Debug\CppCLR_WinFormsProjectLab1.Form1.resources
+C:\Users\Користувач\Documents\job\2022\05\16\CppCLR_WinFormsProjectLab1\CppCLR_WinFormsProjectLab1\x64\Debug\CppCLR_WinFormsProjectLab1.vcxproj.GenerateResource.cache
